@@ -32,7 +32,7 @@ export const info = {
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '❤',
+            emoji: '🖥',
             text: 'amante de tecnologia'
         },
         {
@@ -41,11 +41,11 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "Dev FullStack na Siad e Freelancer"
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "guilhermerg1234@gmail.com"
         }
     ],
     socials: [
