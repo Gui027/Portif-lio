@@ -81,8 +81,8 @@ export const info = {
     bio: "Olá! Me chamo Guilherme. Desenvolvedor Full-Stack, apaixonado por tecnologia, inovação e elaboração de projetos, com muita vontade de aprender. Com formação em Desenvolvimento Web Full Stack pela Trybe, Analista de Dados pelo Google e cursando Engenharia da Computação. Dedicado à escrever código limpo, fácil de ler, escalável, e testado, tendo construído mais de 50 projetos incluindo tecnologias como HTML, CSS, React, Javascript, Typescript, Node.js, Mongo, MySQL, PHP e Python nos últimos anos, e no momento, estagiando em desenvolvimento mobile. Adoro trabalhar em ambientes onde as minhas habilidades podem ser constantemente desafiadas não só a melhorar, mas também para inovar e revolucionar produtos ou serviços. Estou ansioso para trabalhar remotamente com pessoas de todo o Brasil.",
     skills:
     {
-        proficientWith: ['javascript', 'javascript', 'react', 'react native', 'nodejs', 'sequelize', 'prisma', 'sql', 'mysql', 'git', 'github', 'gitlab', 'bootstrap', 'html5', 'css3', 'figma', 'adobe photoshop'],
-        exposedTo: ['php', 'python', 'adobe illustrator', 'mongodb', 'firebase', 'kotlin']
+        proficientWith: ['javascript', 'typescript', 'react', 'react native', 'nodejs', 'sequelize', 'prisma', 'sql', 'mysql', 'git', 'github', 'gitlab', 'bootstrap', 'html5', 'css3', 'figma', 'adobe photoshop'],
+        exposedTo: ['php', 'python', 'mongodb', 'firebase', 'kotlin', 'wordpress', 'elementor', 'adobe illustrator']
     }
     ,
     hobbies: [
