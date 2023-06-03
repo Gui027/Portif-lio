@@ -95,7 +95,7 @@ export const info = {
             emoji: '🏋️‍♀️'
         },
         {
-            label: 'movies',
+            label: 'filmes',
             emoji: '🎥'
         },
         {
